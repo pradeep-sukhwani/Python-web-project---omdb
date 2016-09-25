@@ -2,7 +2,7 @@
 
 Now you fetch movie details from the given link:
 
-ps-interview.appspot.com
+http://www.ps-interview.appspot.com/
 
 # Requirements.txt:
 
